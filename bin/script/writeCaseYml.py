@@ -158,5 +158,5 @@ def write_case_yml(har_path):
 
 
 if __name__ == '__main__':
-    har = '/Users/wangjuan/workpace/api_service/crm/data'
+    har = '/ApiAutomation/content/data'
     s = write_case_yml(har)

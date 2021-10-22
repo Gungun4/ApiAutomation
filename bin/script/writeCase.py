@@ -61,6 +61,6 @@ def write_case(_path):
 
 
 if __name__ == '__main__':
-    ym_path = 'D:/api_service/crm/data'
+    ym_path = 'D:/PycharmProjects/ApiAutomation/content/data'
     write_case(ym_path)
 
